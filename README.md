@@ -1,2 +1,5 @@
 # Hello-World
- just a repository
+ just  repository
+ Happy 
+ childern's day
+ my first try
